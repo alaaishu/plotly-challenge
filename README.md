@@ -1,4 +1,5 @@
 # plotly-challenge - Belly Button Biodiversity
+This app is deployed public on GitHub page, click the following link to see how it looks https://alaaishu.github.io/plotly/
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
